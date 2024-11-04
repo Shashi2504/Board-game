@@ -1,5 +1,7 @@
 # BoardgameListingWebApp
 
+![Project Logo](./Architecture-01.png) <!-- Replace with your project logo -->
+
 ## Description
 
 **Board Game Database Full-Stack Web Application.**
